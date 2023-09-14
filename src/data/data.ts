@@ -224,6 +224,16 @@ export interface Theme {
 
 export const themes: Theme[] = [
   {
+    name: "DeathAndMilk",
+    image: pic_5,
+    colors: {
+      "--bg-color": "#282A33",
+      "--default-color": "#A2743F",
+      "--accent-color": "#6C99B8",
+      "--accent-color2": "#889C51",
+    },
+  },
+  {
     name: "Catppuccin",
     image:
       "https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png",
@@ -232,16 +242,6 @@ export const themes: Theme[] = [
       "--default-color": "#CAD3F5",
       "--accent-color": "#C6A0F6",
       "--accent-color2": "#8AADF4",
-    },
-  },
-  {
-    name: "DeathAndMilk",
-    image: pic_1,
-    colors: {
-      "--bg-color": "#2E2E2E",
-      "--default-color": "#E6E6E6",
-      "--accent-color": "#FFB4E6",
-      "--accent-color2": "#B4FFE6",
     },
   },
   {
