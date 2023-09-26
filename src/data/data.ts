@@ -30,7 +30,7 @@ export interface linkGroup {
 
 export const links: linkGroup[] = [
   {
-    "title": "⛅",
+    "title": "Everyday",
     "links": [
       {
         "label": "lemmy",
@@ -55,7 +55,7 @@ export const links: linkGroup[] = [
     ]
   },
   {
-    "title": "❤‍🔥",
+    "title": "Personal",
     "links": [
       {
         "label": "reddit",
