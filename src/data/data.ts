@@ -30,133 +30,109 @@ export interface linkGroup {
 
 export const links: linkGroup[] = [
   {
-    title: "Reddit",
-    links: [
+    "title": "Norm",
+    "links": [
       {
-        label: "r/startpages",
-        value: "https://www.reddit.com/r/startpages/",
+        "label": "lemmy",
+        "value": "https://alexandrite.app/lemmy.world"
       },
       {
-        label: "r/unixporn",
-        value: "https://www.reddit.com/r/unixporn/",
+        "label": "《ミ》",
+        "value": "https://discourse.purescript.org/"
       },
       {
-        label: "r/rainmeter",
-        value: "https://www.reddit.com/r/rainmeter/",
+        "label": "Haskell",
+        "value": "https://discourse.haskell.org/"
       },
       {
-        label: "r/AnimalsBeingDerps",
-        value: "https://www.reddit.com/r/AnimalsBeingDerps/",
-      },
-    ],
+        "label": "Cardano Forum",
+        "value": "https://forum.cardano.org/"
+      }
+    ]
   },
   {
-    title: "3D Modelling",
-    links: [
+    "title": "Personal",
+    "links": [
       {
-        label: "Blender",
-        value: "https://www.blender.org/",
+        "label": "github",
+        "value": "https://github.com/harryprayiv?tab=repositories"
       },
       {
-        label: "BlenderGuru",
-        value: "https://www.blenderguru.com/",
+        "label": "reddit",
+        "value": "https://old.reddit.com/"
       },
       {
-        label: "Poliigon",
-        value: "https://www.poliigon.com/",
+        "label": "plutuspbl",
+        "value": "https://plutuspbl.io/"
       },
       {
-        label: "Blender tutorial",
-        value:
-          "https://www.youtube.com/watch?v=NyJWoyVx_XI&list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U",
+        "label": "miss silvia pi",
+        "value": "https://misssilviapi.wordpress.com/"
       },
       {
-        label: "The other Blender tutorial",
-        value:
-          "https://www.youtube.com/watch?v=bpvh-9H8S1g&list=PL8eKBkZzqDiU-qcoaghCz04sMitC1yx6k&index=1",
-      },
-    ],
+        "label": "haskell-course",
+        "value": "https://github.com/input-output-hk/haskell-course"
+      }
+    ]
   },
   {
-    title: "Design",
-    links: [
+    "title": "Cardano I",
+    "links": [
       {
-        label: "PixlrX",
-        value: "https://pixlr.com/x/",
+        "label": "1337x",
+        "value": "https://1337x.unblockit.buzz/home/"
       },
       {
-        label: "AI Image Enlarger",
-        value: "https://bigjpg.com/en",
+        "label": "funfilled",
+        "value": "http://192.168.1.204:9091/transmission/web/"
       },
       {
-        label: "Img to Svg Converter",
-        value: "https://picsvg.com/",
+        "label": "coinmarketcap",
+        "value": "https://coinmarketcap.com/"
       },
       {
-        label: "Affinity",
-        value: "https://affinity.serif.com/en-us/tutorials/designer/desktop/",
+        "label": "defillama",
+        "value": "https://defillama.com/chain/Cardano"
       },
       {
-        label: "Affinity - YT",
-        value: "https://www.youtube.com/c/AffinityRevolution/playlists",
+        "label": "dappsoncardano",
+        "value": "https://dappsoncardano.com/"
       },
-    ],
+      {
+        "label": "explorer.cardano.org",
+        "value": "https://explorer.cardano.org/en"
+      }
+    ]
   },
   {
-    title: "Music",
-    links: [
+    "title": "Cardano II",
+    "links": [
       {
-        label: "i wanna be a cowboy",
-        value: "https://www.youtube.com/watch?v=8zWz92f_HGs",
+        "label": "taptools",
+        "value": "https://taptools.io/"
       },
       {
-        label: "let the bodies hit the floor",
-        value: "https://www.youtube.com/watch?v=b--VKaCB9u0",
+        "label": "coindodo",
+        "value": "https://coindodo.io/cardano/"
       },
       {
-        label: "Nobody Kanna Cross It",
-        value: "https://www.youtube.com/watch?v=2wqTnwJGvtc",
+        "label": "thecoinperspective",
+        "value": "https://thecoinperspective.com/compare/cardano"
       },
       {
-        label: "Smug Dancin",
-        value: "https://www.youtube.com/watch?v=eNZ9Od1jQ4Q",
+        "label": "media.sheetmusicplus.com/account/digital-locker",
+        "value": "https://media.sheetmusicplus.com/account/digital-locker"
       },
       {
-        label: "Utamaru - The Sanctified Mind Cover",
-        value: "https://www.youtube.com/watch?v=MHlJKLlS07U",
-      },
-    ],
-  },
-  {
-    title: "Sauce",
-    links: [
-      {
-        label: "Pictures - DeathAndMilk",
-        value: "https://www.instagram.com/deathandmilk_/",
+        "label": "cardanoassets",
+        "value": "https://cardanoassets.com/asset189u0gg5g2y79esvk9y788y0s4vh67f60j69adr"
       },
       {
-        label: "Icons - FontAwesome",
-        value: "https://fontawesome.com/icons",
-      },
-      {
-        label: "Text Flicker - CodeMyUI",
-        value:
-          "https://codemyui.com/crt-screen-text-flicker-animation-in-pure-css/",
-      },
-      {
-        label: "Wave Animation - mburakerman",
-        value: "https://codepen.io/mburakerman/pen/eRZZEv",
-      },
-      {
-        label: "Da real sauce ԅ(♡﹃♡ԅ)",
-        value: "https://www.youtube.com/watch?v=qr89xoZyE1g",
-      },
-      {
-        label: "Even more real sauce ( ͡° ͜ʖ ͡°)",
-        value: "https://www.youtube.com/watch?v=VLhJOd_TFiI",
-      },
-    ],
-  },
+        "label": "cardanoassets",
+        "value": "https://cardanoassets.com/asset1j9gm0vld34anfzljw5faa8xmf47f3pungkfsn5"
+      }
+    ]
+  }
 ]
 
 export const images: dataElem[] = [
