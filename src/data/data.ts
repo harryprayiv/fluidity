@@ -30,11 +30,15 @@ export interface linkGroup {
 
 export const links: linkGroup[] = [
   {
-    "title": "Norm",
+    "title": "⛅",
     "links": [
       {
         "label": "lemmy",
-        "value": "https://alexandrite.app/lemmy.world"
+        "value": "https://alexandrite.app/infosec.pub"
+      },
+      {
+        "label": "github",
+        "value": "https://github.com/harryprayiv?tab=repositories"
       },
       {
         "label": "《ミ》",
@@ -51,15 +55,15 @@ export const links: linkGroup[] = [
     ]
   },
   {
-    "title": "Personal",
+    "title": "❤‍🔥",
     "links": [
-      {
-        "label": "github",
-        "value": "https://github.com/harryprayiv?tab=repositories"
-      },
       {
         "label": "reddit",
         "value": "https://old.reddit.com/"
+      },
+      {
+        "label": "sheetmusicplus",
+        "value": "https://media.sheetmusicplus.com/account/digital-locker"
       },
       {
         "label": "plutuspbl",
@@ -78,14 +82,6 @@ export const links: linkGroup[] = [
   {
     "title": "Cardano I",
     "links": [
-      {
-        "label": "1337x",
-        "value": "https://1337x.unblockit.buzz/home/"
-      },
-      {
-        "label": "funfilled",
-        "value": "http://192.168.1.204:9091/transmission/web/"
-      },
       {
         "label": "coinmarketcap",
         "value": "https://coinmarketcap.com/"
@@ -118,10 +114,6 @@ export const links: linkGroup[] = [
       {
         "label": "thecoinperspective",
         "value": "https://thecoinperspective.com/compare/cardano"
-      },
-      {
-        "label": "media.sheetmusicplus.com/account/digital-locker",
-        "value": "https://media.sheetmusicplus.com/account/digital-locker"
       },
       {
         "label": "cardanoassets",
