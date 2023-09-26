@@ -30,7 +30,7 @@ export interface linkGroup {
 
 export const links: linkGroup[] = [
   {
-    "title": "Everyday",
+    "title": "☀",
     "links": [
       {
         "label": "lemmy",
@@ -55,7 +55,7 @@ export const links: linkGroup[] = [
     ]
   },
   {
-    "title": "Personal",
+    "title": "🗻",
     "links": [
       {
         "label": "reddit",
@@ -80,7 +80,7 @@ export const links: linkGroup[] = [
     ]
   },
   {
-    "title": "Cardano I",
+    "title": "🧜‍♀",
     "links": [
       {
         "label": "coinmarketcap",
@@ -101,7 +101,7 @@ export const links: linkGroup[] = [
     ]
   },
   {
-    "title": "Cardano II",
+    "title": "🥟",
     "links": [
       {
         "label": "taptools",
