@@ -9,7 +9,7 @@ If you have any problems or miss a feature, create an issue and I will take a lo
 ### The startpage in action
 I created a [reddit post](https://www.reddit.com/r/startpages/comments/m82izg/my_new_startpage_any_ideas_for_names/) on r/startpages. There you can see a short video where I show all available features.
 
-You can also just take a look at the [Live Demo](https://prettycoffee.github.io/fluidity/).
+You can also just take a look at the [Live Demo](https://harryprayiv.github.io/fluidity/).
 
 ### Themes
 ![Default theme](https://github.com/PrettyCoffee/fluidity/blob/main/docs/default-theme.png)
